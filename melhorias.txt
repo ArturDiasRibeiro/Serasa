@@ -1,0 +1,1 @@
+Investigar o bug do slider, onde Após atualizar a página, o Slider de meses, pula um index de 6 meses, para 24 meses. Com um apenas um clique na seta direita

@@ -1,0 +1,15 @@
+{
+  "name": "serasa",
+  "version": "1.0.0",
+  "description": "Teste",
+  "main": "Serasa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^105.0.1",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
